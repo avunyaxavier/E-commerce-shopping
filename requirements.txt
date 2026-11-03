@@ -5,3 +5,8 @@ seaborn
 scikit-learn
 streamlit
 joblib
+streamlit
+pandas
+numpy==2.4.6
+scikit-learn==1.6.1
+joblib
